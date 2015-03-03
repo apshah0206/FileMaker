@@ -1,5 +1,5 @@
 # FileMaker
-Software written in Python that allows the user to spawn files. To see a beta version of this document spawned with FileMaker, check out [README.html](https://github.com/apshah0206/FileMaker/blob/master/README.html
+Software written in Python that allows the user to spawn files. To see a beta version of this document spawned with FileMaker, check out [README.html](https://github.com/apshah0206/FileMaker/blob/master/README.html)
 
 ## Our Vision
 We want to eventually make a set of scripts that allow the user to ultimatly create any type of file: from simple text, to a working code model.
